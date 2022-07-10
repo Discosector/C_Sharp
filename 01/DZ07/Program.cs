@@ -5,7 +5,7 @@ Console.WriteLine("Ввод числа");
     {
         string input = Console.ReadLine();
         if(!input.Equals("exit"))
-            Console.WriteLine("{0}->{1}",input, input[1]);
+            Console.WriteLine("{0}->{1}",input, input[2]);
         else
             break;
     }
