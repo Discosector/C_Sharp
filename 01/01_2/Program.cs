@@ -1,4 +1,4 @@
-﻿// Задача №2
+﻿// Задача №1
 
 Console.WriteLine("write a num a");
 int a = int.Parse(Console.ReadLine());
