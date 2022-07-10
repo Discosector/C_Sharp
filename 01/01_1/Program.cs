@@ -2,8 +2,6 @@
 
 Console.WriteLine("enter number");
 
-string s_a = Console.ReadLine(); 
-
-int a = int.Parse(s_a);
+int a = int.Parse(Console.ReadLine());
 Console.WriteLine(a * a);
 
